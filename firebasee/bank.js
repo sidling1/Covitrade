@@ -28,7 +28,7 @@ var net_bln;
 var resources;
 var star;
 
-
+//hello edit
 
 function create_account()
 {
